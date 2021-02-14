@@ -1,2 +1,2 @@
 # Trees_OOP
-Red black tree and binary search tree implementations in c++ with object oriented programming.
+Red black tree and binary search tree implementations in c++ using object oriented programming.
