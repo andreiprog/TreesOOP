@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1574872761 source:c:\users\andrei cosor\desktop\projects\temapoo2-master\trees_oop\trees_oop\main.cpp
+	<iostream>
+	"Nod.h"
+	"Nod_Red_Black.h"
+	"Tree.h"
+	"BST.h"
+	"Red_Black_Tree.h"
+
+1574872761 c:\users\andrei cosor\desktop\projects\temapoo2-master\trees_oop\trees_oop\nod.h
+	<iostream>
+
+1574872761 c:\users\andrei cosor\desktop\projects\temapoo2-master\trees_oop\trees_oop\nod_red_black.h
+	<iostream>
+	"Nod.h"
+
+1574872761 c:\users\andrei cosor\desktop\projects\temapoo2-master\trees_oop\trees_oop\tree.h
+	<iostream>
+
+1574872761 c:\users\andrei cosor\desktop\projects\temapoo2-master\trees_oop\trees_oop\bst.h
+	<iostream>
+	"Nod.h"
+	"Tree.h"
+
+1574872761 c:\users\andrei cosor\desktop\projects\temapoo2-master\trees_oop\trees_oop\red_black_tree.h
+	<iostream>
+	"Tree.h"
+	"Nod.h"
+	"Nod_Red_Black.h"
+
+1574872761 source:c:\users\andrei cosor\desktop\projects\temapoo2-master\trees_oop\trees_oop\bst.cpp
+	"BST.h"
+
+1574872761 source:c:\users\andrei cosor\desktop\projects\temapoo2-master\trees_oop\trees_oop\nod.cpp
+	<iostream>
+	"Nod.h"
+
+1574872761 source:c:\users\andrei cosor\desktop\projects\temapoo2-master\trees_oop\trees_oop\nod_red_black.cpp
+	<iostream>
+	"Nod.h"
+	"Nod_Red_Black.h"
+
+1574872761 source:c:\users\andrei cosor\desktop\projects\temapoo2-master\trees_oop\trees_oop\red_black_tree.cpp
+	"Red_Black_Tree.h"
+
+1574872761 source:c:\users\andrei cosor\desktop\projects\temapoo2-master\trees_oop\trees_oop\tree.cpp
+	<iostream>
+	<string>
+	"Tree.h"
+	"BST.h"
+	"Red_Black_Tree.h"
+
